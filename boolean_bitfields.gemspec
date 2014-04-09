@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Ivan Nemytchenko"]
   s.email       = ["nemytchenko@gmail.com"]
   s.homepage    = "http://github.com/inem/boolean_bitfields"
-  s.summary     = "Bit fields now behave like regular boolean fields"
+  s.summary     = "Your mysql bit fields will behave like regular boolean fields"
   s.description = "yay"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
